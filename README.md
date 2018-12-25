@@ -2,8 +2,6 @@
 Displaying facial animations on Anki's Vector face display
 -
 
-What does it do exactly?
--
 Play an image sequence as an animation on the face display of Anki's robot Vector.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=tnEEs3R4DFA
